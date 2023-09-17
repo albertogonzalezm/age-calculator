@@ -110,7 +110,7 @@ function SubmitButton({ handleSubmit }) {
       <div className="middle">
         <hr />
         <button onClick={handleSubmit} type="submit">
-          <img src="/src/assets/images/icon-arrow.svg" alt="icon-arrow" />
+          <img src="https://drive.google.com/uc?export=view&id=16jDh5maMpMAK0AzqMd7SCRo_mUktR9jc" alt="icon-arrow" />
         </button>
       </div>
     </>
